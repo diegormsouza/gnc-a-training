@@ -1,8 +1,8 @@
-# 🛰️ GNC-A Training for the Eastern Caribbean States 🌎
+# 🛰️ GNC-A Training Resources 🌎
 
 In this repository, you will find all the scripts used during the training.
 
-![banner](https://user-images.githubusercontent.com/54595784/232803300-465ec569-97c7-4eed-ae7a-5c924acfb924.png)
+![banner_github](https://github.com/user-attachments/assets/7c88ba40-73a9-4af5-af78-177fc478fbdf)
 
 - **GOES** directory: Example scripts for the 1st and 2nd days
 
